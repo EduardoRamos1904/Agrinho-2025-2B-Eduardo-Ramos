@@ -62,6 +62,9 @@ Agrinho-2025/
 - [Regulamento Agrinho 2025 (PDF)](https://www.educacao.pr.gov.br/programacao)
 - [W3Schools - HTML e CSS](https://www.w3schools.com/)
 - [Unsplash](https://unsplash.com/) – banco de imagens gratuito
+- Video 01 - https://www.youtube.com/watch?v=busC85J8dAk
+- Video 02 - https://www.youtube.com/watch?v=GLW8OhjMaj8
+- Galeria - Inteligencia Artificial - Prompt geral: Conexão campo-cidade
 
 ---
 
